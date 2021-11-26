@@ -23,7 +23,7 @@ typedef struct s_struct
 	char		*str;
 	ssize_t		count;
 	int			fd;
-	char		buffer[BUFFER_SIZE + 1];
+	char
 	char		*onestr;
 	char		*leaks;
 	char		*pointer;
